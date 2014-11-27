@@ -5,6 +5,9 @@ package jp.co.shoeisha.example;
  * 送料計算クラス
  * @author kbc11a07
  *
+ *	kbc11a11 nino-A
+ *
+ *
  */
 public class Shipping {
 
