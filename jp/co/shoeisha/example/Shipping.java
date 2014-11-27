@@ -4,7 +4,7 @@ package jp.co.shoeisha.example;
 /**
  * 送料計算クラス
  * @author kbc11a07
- *
+ * @author Iwana
  */
 public class Shipping {
 
